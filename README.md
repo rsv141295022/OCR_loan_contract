@@ -3,4 +3,4 @@
 1. The scanned pdf file of loan contract document have more than 20 pages, First we have to find the loan amortization schedule
 
 
-![alt text](http://url/to/Screenshot 2023-04-10 202343.png)
+![alt text](Picture1.jpg)
